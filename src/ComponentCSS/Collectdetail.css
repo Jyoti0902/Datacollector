@@ -1,0 +1,51 @@
+/* CollectDetail.css */
+
+.form-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+}
+
+.form-group button {
+  margin-top: 15px;
+
+}
+
+/* Custom styling for Material-UI components */
+
+.MuiFormControl-root {
+  width: 100%;
+}
+
+.MuiOutlinedInput-input {
+  padding: 10px;
+  background-color: white;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #007bff;
+  color: white;
+}
+
+.MuiButton-containedPrimary:hover {
+  background-color: #0056b3;
+}
+
+Link .link-button{
+  text-decoration: none;
+  
+  color: white;
+}

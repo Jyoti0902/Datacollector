@@ -1,0 +1,19 @@
+.department-list{
+     text-align: center;
+}
+
+.department-list .parent{
+     margin: 2rem;
+     text-align: left;
+}
+
+.department-list .parent .toggle{
+     margin: 10px;
+     padding: 0;
+     float: left;
+     
+}
+     
+.child {
+     margin-left: 3rem;
+}
