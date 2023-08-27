@@ -1,5 +1,5 @@
 # React + Vite
-# To run my project please follow following steps:
+#  To run my project you need to follow the steps below:-
   1. Download the Zip file and extract the folder.
   2. Open folder in VS code
   3. Run command:  npm install
